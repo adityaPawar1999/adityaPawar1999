@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aditya Pawar and I'm a  MERN Stack Developer, from Jalgaon</h2>
+<h2 align="left">Hi 👋! My name is Aditya Pawar and I'm a MERN Stack Developer, from Jalgaon</h2>
 
 ###
 
