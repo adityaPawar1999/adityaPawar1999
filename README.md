@@ -4,7 +4,6 @@
 ###
 
 <div align="left">
-    <p><b>Connect Details :</b></p>
   <a href="https://www.linkedin.com/in/aditya-pawar-857247216/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="25" alt="linkedin logo"  />
   </a>
@@ -17,7 +16,7 @@
 </div>
 
 ###
-
+<hr>
 <br clear="both">
 
 <img align="right" height="190" src="https://i.pinimg.com/originals/42/5b/a4/425ba4b16059e31dcf35bb0fee51e37c.gif"  />
