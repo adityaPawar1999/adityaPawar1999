@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Aditya Pawar and I'm a MERN stack developer, from Pune  :></h2>
+<h2 align="left"><h1>ADITYA PAWAR 👋</h1><br>
+    <p> I'm a MERN stack developer :></p> </h2>
 
 ###
 
