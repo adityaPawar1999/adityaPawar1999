@@ -2,17 +2,6 @@
 
 ###
 
-<div align="center"">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityaPawar1999&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaPawar1999&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/42/5b/a4/425ba4b16059e31dcf35bb0fee51e37c.gif"  />
-
-###
-
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
   <img width="5" />
@@ -36,6 +25,19 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
 </div>
+###
+
+<div align="center"">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityaPawar1999&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaPawar1999&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="200" src="https://i.pinimg.com/originals/42/5b/a4/425ba4b16059e31dcf35bb0fee51e37c.gif"  />
+
+###
+
 
 
 ###
