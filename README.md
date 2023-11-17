@@ -45,6 +45,8 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityapawar1999&" alt="adityapawar1999" /></p>
 ###
 
 <br clear="both">
