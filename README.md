@@ -3,7 +3,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/aditya-pawar-857247216">
+  <a href="https://www.linkedin.com/in/aditya-pawar-857247216/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/adityapawa.r?igshid=NTc4MTIwNjQ2YQ%3D%3D">
