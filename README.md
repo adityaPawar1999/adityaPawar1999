@@ -1,5 +1,5 @@
-<h2 align="left"><h1>ADITYA PAWAR 👋</h1><br>
-    <p> I'm a MERN stack developer :></p> </h2>
+<p align="left"><h1>ADITYA PAWAR 👋</h1><br>
+    <h5> I'm a MERN stack developer :></h5> </p>
 
 ###
 
