@@ -10,6 +10,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" height="190" src="https://i.pinimg.com/originals/42/5b/a4/425ba4b16059e31dcf35bb0fee51e37c.gif"  />
 
 ###
@@ -39,6 +41,30 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
 </div>
+
+###
 <hr>
+
+###
+
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityaPawar1999&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaPawar1999&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=adityaPawar1999&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/adityaPawar1999/adityaPawar1999/output/snake.svg" alt="Snake animation" />
 
 ###
