@@ -1,9 +1,10 @@
 <p align="left"><h1>ADITYA PAWAR 👋</h1>
-    <h5> I'm a MERN stack developer</h5> </p>
+    <h5> "Experienced MERN stack developer with expertise in building scalable and responsive web applications. Proficient in MongoDB, Express.js, React.js, and Node.js technologies."</h5> </p>
 
 ###
 
 <div align="left">
+    <p>Connect Details :</p>
   <a href="https://www.linkedin.com/in/aditya-pawar-857247216/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="25" alt="linkedin logo"  />
   </a>
