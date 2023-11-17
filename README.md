@@ -51,11 +51,3 @@
 
 <img src="https://raw.githubusercontent.com/adityaPawar1999/adityaPawar1999/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/aditya">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=aditya&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-###
