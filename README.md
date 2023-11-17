@@ -8,7 +8,7 @@
 </div>
 <hr>
 
-
+<div>
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
   <img width="5" />
@@ -32,6 +32,8 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
 </div>
+<img align="right" height="200" src="https://i.pinimg.com/originals/42/5b/a4/425ba4b16059e31dcf35bb0fee51e37c.gif"  />
+</div>
 ###
 
 <div align="center"">
@@ -41,7 +43,6 @@
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/42/5b/a4/425ba4b16059e31dcf35bb0fee51e37c.gif"  />
 
 ###
 
