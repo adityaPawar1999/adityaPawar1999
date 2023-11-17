@@ -16,7 +16,6 @@
 </div>
 
 ###
-<hr>
 <br clear="both">
 
 <img align="right" height="190" src="https://i.pinimg.com/originals/42/5b/a4/425ba4b16059e31dcf35bb0fee51e37c.gif"  />
