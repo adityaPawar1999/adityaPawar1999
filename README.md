@@ -1,5 +1,9 @@
 <p align="left"><h1><b>ADITYA PAWAR 👋</b></h1>
     <h5> "Experienced MERN stack developer with expertise in building scalable and responsive web applications. Proficient in MongoDB, Express.js, React.js, and Node.js technologies."</h5> </p>
+    
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=adityaPawar1999.adityaPawar1999&right_color=aquamarine"  />
+</div>
 
 ###
 
@@ -66,16 +70,4 @@
 <br clear="both">
 
 
-<div align="left">
-  <img src="https://profile-counter.glitch.me/adityaPawar1999/count.svg?"  />
-</div>
-
 ###
-
-<div align="right">
-  <img src="https://streak-stats.demolab.com?user=adityaPawar1999&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<br clear="both">
